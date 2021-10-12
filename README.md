@@ -5,3 +5,4 @@
 3-student.dart- List of objects and calculating marks,pecentage.<br/>
 4-studentInheri.dart-single inheritance.<br/>
 5-vehmulinheri.dart-hierarchical inheritance using method overriding.<br/>
+6-studmulinheri.dart- multiple inheritance method overriding and dart interfaces
