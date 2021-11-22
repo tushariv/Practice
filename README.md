@@ -6,3 +6,4 @@
 4-studentInheri.dart-single inheritance.<br/>
 5-vehmulinheri.dart-hierarchical inheritance using method overriding.<br/>
 6-studmulinheri.dart- multiple inheritance method overriding and dart interfaces.<br/>
+7-multiplecallableclasses.dart- single and multiple callable classes(Call Classes instances like a function).</br>
