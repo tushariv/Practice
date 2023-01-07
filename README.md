@@ -15,3 +15,7 @@
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/67632474/211132009-d369d847-c28d-4ef6-b699-337b3f624ec6.png">
 </p>
+10- multiple_layout_widget_colors-
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/67632474/211132226-7c8b7e30-0626-49dc-849a-335cfcb477f0.png">
+</p>
