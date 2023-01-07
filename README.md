@@ -11,3 +11,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67632474/211131528-fd139836-ee17-4ecd-93fe-a32fdfd84515.png">
 </p>
+9- multiple_layout_widget-
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/67632474/211132009-d369d847-c28d-4ef6-b699-337b3f624ec6.png">
+</p>
